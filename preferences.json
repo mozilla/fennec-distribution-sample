@@ -5,7 +5,7 @@
     "about": "Sample Distribution"
   },
   "Preferences": {
-  	"privacy.donottrackheader.enabled": true,
+    "privacy.donottrackheader.enabled": true
   },
   "LocalizablePreferences": {
     "browser.search.defaultenginename": "Bugzilla@Mozilla"
