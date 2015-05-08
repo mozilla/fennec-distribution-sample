@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Bugzilla@Mozilla</ShortName>
+<Description>Bugzilla@Mozilla Quick Search</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image height="16" width="16" type="image/vnd.microsoft.icon">https://bugzilla.mozilla.org/extensions/BMO/web/images/favicon.ico</Image>
+<Url type="text/html" method="GET" template="https://bugzilla.mozilla.org/buglist.cgi?quicksearch={searchTerms}"/>
+</OpenSearchDescription>

@@ -1,0 +1,13 @@
+{
+  "Global": {
+    "id": "sample",
+    "version": 1.0,
+    "about": "Sample Distribution"
+  },
+  "Preferences": {
+  	"privacy.donottrackheader.enabled": true,
+  },
+  "LocalizablePreferences": {
+    "browser.search.defaultenginename": "Bugzilla@Mozilla"
+  }
+}
